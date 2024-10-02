@@ -10,8 +10,8 @@
 
 ## Objective:
 
-** To identify the different factors which leads to Defaultation of Loan repayments
-To make a model to predict wheather a customer will default on his/her loan or not **
+**To identify the different factors which leads to Defaultation of Loan repayments**
+**To make a model to predict wheather a customer will default on his/her loan or not**
 
 ## Dataset:
 
