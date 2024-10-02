@@ -1,12 +1,12 @@
 # Objective and Context
 
-** Aegis Bank Inc. is a global financial institution with an extensive customer base spanning across the globe. Committed to providing excellent financial services, the bank places a strong emphasis on risk management and customer satisfaction. Recognizing the importance of ensuring the financial stability of its clients, Aegis Bank invests significant resources in predictive analytics to proactively identify potential risks.
+**Aegis Bank Inc. is a global financial institution with an extensive customer base spanning across the globe. Committed to providing excellent financial services, the bank places a strong emphasis on risk management and customer satisfaction. Recognizing the importance of ensuring the financial stability of its clients, Aegis Bank invests significant resources in predictive analytics to proactively identify potential risks.**
 
-As a recently onboarded Data Scientist in the Risk Management Department, my primary responsibility is to leverage data-driven insights to predict whether customers are at risk of defaulting on their loans. Aegis Bank aims to optimize its risk mitigation strategies by identifying patterns and characteristics associated with customers who might face challenges in meeting their financial obligations.
+**As a recently onboarded Data Scientist in the Risk Management Department, my primary responsibility is to leverage data-driven insights to predict whether customers are at risk of defaulting on their loans. Aegis Bank aims to optimize its risk mitigation strategies by identifying patterns and characteristics associated with customers who might face challenges in meeting their financial obligations.**
 
-By employing advanced machine learning models and predictive analytics, I will analyze historical customer data to identify key features and trends that correlate with loan defaults. The goal is to develop a robust predictive model that can accurately forecast the likelihood of a customer defaulting on a loan. This proactive approach will empower Aegis Bank to tailor its risk management strategies, allowing for targeted interventions and support to customers who may be at risk.
+**By employing advanced machine learning models and predictive analytics, I will analyze historical customer data to identify key features and trends that correlate with loan defaults. The goal is to develop a robust predictive model that can accurately forecast the likelihood of a customer defaulting on a loan. This proactive approach will empower Aegis Bank to tailor its risk management strategies, allowing for targeted interventions and support to customers who may be at risk.**
 
-Ultimately, the insights derived from this predictive modeling initiative will enable Aegis Bank to optimize resource allocation, enhance customer engagement, and maintain a robust risk management framework that aligns with the bank's commitment to delivering exceptional financial services globally. **
+**Ultimately, the insights derived from this predictive modeling initiative will enable Aegis Bank to optimize resource allocation, enhance customer engagement, and maintain a robust risk management framework that aligns with the bank's commitment to delivering exceptional financial services globally.**
 
 ## Objective:
 
