@@ -1,4 +1,4 @@
-#Objective and Context
+# Objective and Context
 
 **Aegis Bank Inc. is a global financial institution with an extensive customer base spanning across the globe. Committed to providing excellent financial services, the bank places a strong emphasis on risk management and customer satisfaction. Recognizing the importance of ensuring the financial stability of its clients, Aegis Bank invests significant resources in predictive analytics to proactively identify potential risks.
 
@@ -8,12 +8,12 @@ By employing advanced machine learning models and predictive analytics, I will a
 
 Ultimately, the insights derived from this predictive modeling initiative will enable Aegis Bank to optimize resource allocation, enhance customer engagement, and maintain a robust risk management framework that aligns with the bank's commitment to delivering exceptional financial services globally.**
 
-##Objective:
+## Objective:
 
 **To identify the different factors which leads to Defaultation of Loan repayments
 To make a model to predict wheather a customer will default on his/her loan or not**
 
-##Dataset:
+## Dataset:
 
 The data contains customer loan type, their income and loan default status.
 
