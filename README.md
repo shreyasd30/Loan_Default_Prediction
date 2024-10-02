@@ -27,9 +27,9 @@ The data contains customer loan type, their income and loan default status.
 
 **Approve_in_adv** - Is customer pre-approved for the loan or not.
 
-**Loan_type **- Type of loan (Type 1, Type 2 or Type 3)
+**Loan_type** - Type of loan (Type 1, Type 2 or Type 3)
 
-**Loan_Purpose**- Purpose of loan (i.e. Loan taken for exactly what purpose - P1, P2, P3, P4)
+**Loan_Purpose** - Purpose of loan (i.e. Loan taken for exactly what purpose - P1, P2, P3, P4)
 
 **Credit_worthiness** - Credit worthiness type (L1 or L2)
 
